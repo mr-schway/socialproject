@@ -1,0 +1,24 @@
+{
+  "name": "socialproject",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tailwind build users/static/users/tw.css -o users/static/users/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mr-schway/socialproject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mr-schway/socialproject/issues"
+  },
+  "homepage": "https://github.com/mr-schway/socialproject#readme",
+  "description": "",
+  "dependencies": {
+    "tailwindcss": "^2.2.16"
+  }
+}
